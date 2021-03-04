@@ -7,7 +7,7 @@ package fileio;
 
 /**
  *
- * @author Harryx
+ * @author Steve
  */
   import java.util.*;
 import java.io.*;
